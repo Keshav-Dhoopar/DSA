@@ -30,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Keshav-Dhoopar/DSA/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Keshav-Dhoopar/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
