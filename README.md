@@ -23,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-Dhoopar/DSA/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
