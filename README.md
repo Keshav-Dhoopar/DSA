@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav-Dhoopar/DSA/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-Dhoopar/DSA/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -26,5 +28,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 <!---LeetCode Topics End-->
