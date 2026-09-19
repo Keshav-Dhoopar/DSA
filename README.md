@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Keshav-Dhoopar/DSA/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Keshav-Dhoopar/DSA/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/Keshav-Dhoopar/DSA/tree/master/0412-fizz-buzz) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Binary Search
 |  |
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Keshav-Dhoopar/DSA/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Keshav-Dhoopar/DSA/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
