@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Keshav-Dhoopar/DSA/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Keshav-Dhoopar/DSA/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Keshav-Dhoopar/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1019-squares-of-a-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/Keshav-Dhoopar/DSA/tree/master/3226-minimum-number-game) |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Keshav-Dhoopar/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0412-fizz-buzz](https://github.com/Keshav-Dhoopar/DSA/tree/master/0412-fizz-buzz) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/2608-count-the-digits-that-divide-a-number) |
