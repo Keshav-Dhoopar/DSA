@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keshav-Dhoopar/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Keshav-Dhoopar/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keshav-Dhoopar/DSA/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/1019-squares-of-a-sorted-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Keshav-Dhoopar/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keshav-Dhoopar/DSA/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
