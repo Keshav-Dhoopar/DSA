@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav-Dhoopar/DSA/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Keshav-Dhoopar/DSA/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
@@ -44,4 +45,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Keshav-Dhoopar/DSA/tree/master/0412-fizz-buzz) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Keshav-Dhoopar/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
