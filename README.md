@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-Dhoopar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Keshav-Dhoopar/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keshav-Dhoopar/DSA/tree/master/2836-neither-minimum-nor-maximum) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Keshav-Dhoopar/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Keshav-Dhoopar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/1019-squares-of-a-sorted-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Keshav-Dhoopar/DSA/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/Keshav-Dhoopar/DSA/tree/master/3226-minimum-number-game) |
@@ -83,11 +85,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
 | [3226-minimum-number-game](https://github.com/Keshav-Dhoopar/DSA/tree/master/3226-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -108,4 +112,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Keshav-Dhoopar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
