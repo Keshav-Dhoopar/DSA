@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Keshav-Dhoopar/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Keshav-Dhoopar/DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Keshav-Dhoopar/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Keshav-Dhoopar/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Keshav-Dhoopar/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Keshav-Dhoopar/DSA/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Keshav-Dhoopar/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Keshav-Dhoopar/DSA/tree/master/0344-reverse-string) |
@@ -142,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Keshav-Dhoopar/DSA/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Keshav-Dhoopar/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
