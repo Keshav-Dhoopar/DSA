@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Keshav-Dhoopar/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keshav-Dhoopar/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Keshav-Dhoopar/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Keshav-Dhoopar/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Keshav-Dhoopar/DSA/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Keshav-Dhoopar/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Keshav-Dhoopar/DSA/tree/master/0200-number-of-islands) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Keshav-Dhoopar/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Keshav-Dhoopar/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Keshav-Dhoopar/DSA/tree/master/0278-first-bad-version) |
 ## Interactive
